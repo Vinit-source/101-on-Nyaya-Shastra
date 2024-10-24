@@ -36,21 +36,21 @@
      13. **Hetvabhasa (Fallacy)**: Misleading arguments that appear logical but are not.
      14. **Chala (Quibble)**: Deliberate misinterpretation of statements.
      15. **Jati (Futility)**: Irrelevant arguments that hinder logical progress.
-     16. **Nigrahasthana (Point of Defeat)**: Situations where a debater concedes defeat due to logical flaws【5:5†source】.
+     16. **Nigrahasthana (Point of Defeat)**: Situations where a debater concedes defeat due to logical flaws.
 
 #### 5. **Nyaya’s Approach to Knowledge**
    - **Nyaya identifies four pramanas (means of knowledge):**
      1. **Perception (Pratyaksha)**: Direct sensory experience.
      2. **Inference (Anumana)**: Knowledge derived from reasoning, divided into three kinds: a priori, a posteriori, and commonly observed.
      3. **Comparison (Upamana)**: Knowledge obtained by analogy.
-     4. **Verbal Testimony (Shabda)**: Knowledge gained from authoritative sources【5:5†source】.
+     4. **Verbal Testimony (Shabda)**: Knowledge gained from authoritative sources.
 
 #### 6. **Philosophical Objectives**
    - **Nyaya Shastra** is not merely theoretical; its purpose is to guide individuals toward **moksha** by refining their reasoning skills.
-   - The systematic approach helps distinguish between **valid knowledge (prama)** and **invalid knowledge (apramana)**, contributing to personal growth and societal harmony【5:5†source】.
+   - The systematic approach helps distinguish between **valid knowledge (prama)** and **invalid knowledge (apramana)**, contributing to personal growth and societal harmony.
 
 #### 7. **Contemporary Relevance**
-   - Nyaya remains relevant in modern logic, critical thinking, and legal reasoning. Its principles can be applied in debate, law, philosophy, and other fields that require structured argumentation and verification of truth claims【5:4†source】.
+   - Nyaya remains relevant in modern logic, critical thinking, and legal reasoning. Its principles can be applied in debate, law, philosophy, and other fields that require structured argumentation and verification of truth claims.
 
 #### 8. **Conclusion**
    - Nyaya Shastra is foundational for logical inquiry in Indian philosophy, emphasizing structured reasoning and the pursuit of truth.
@@ -58,9 +58,9 @@
 
 #### Suggested Readings for Students
    - **Nyaya Sutras of Gotama** (translated texts)
-   - Commentaries like **Vatsyayana’s Nyaya Bhashya** and **Vachaspati Misra’s Nyaya-Varttika-Tatparya-Tika** for deeper insights【5:5†source】.
+   - Commentaries like **Vatsyayana’s Nyaya Bhashya** and **Vachaspati Misra’s Nyaya-Varttika-Tatparya-Tika** for deeper insights.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTgyNTI4MF19
+eyJoaXN0b3J5IjpbLTExODI4NzM4NDcsMTY4MTgyNTI4MF19
 -->
