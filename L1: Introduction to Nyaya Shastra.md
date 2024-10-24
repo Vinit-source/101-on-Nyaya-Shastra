@@ -12,12 +12,12 @@
 #### 2. **Historical Context**
    - **Sage Gotama**, who authored the **Nyaya Sutras**, lived around the 6th century BCE. 
    - The Nyaya Sutras are considered the earliest work on Nyaya philosophy and are foundational for logical reasoning in Indian philosophical discourse.
-   - Nyaya Shastra originated as a **system of logical inquiry** independent of religious dogma but later incorporated elements of Vedic philosophy【5:5†source】【5:4†source】.
+   - Nyaya Shastra originated as a **system of logical inquiry** independent of religious dogma but later incorporated elements of Vedic philosophy.
 
 #### 3. **Significance and Goals of Nyaya Shastra**
    - The primary aim of Nyaya is to achieve **supreme felicity (moksha)** through true knowledge, which involves the removal of ignorance and misconceptions.
-   - It aims to analyze the process of attaining correct knowledge to ultimately understand reality and attain liberation【5:5†source】.
-   - Nyaya Shastra serves as a tool for **rational inquiry** and offers a method to resolve disputes through logical discussion and analysis【5:5†source】.
+   - It aims to analyze the process of attaining correct knowledge to ultimately understand reality and attain liberation.
+   - Nyaya Shastra serves as a tool for **rational inquiry** and offers a method to resolve disputes through logical discussion and analysis.
 
 #### 4. **Key Concepts: The Sixteen Categories (Padarthas)**
    - Nyaya philosophy identifies **sixteen categories (padarthas)** that are essential for understanding reality. These are:
@@ -62,5 +62,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI4NzM4NDcsMTY4MTgyNTI4MF19
+eyJoaXN0b3J5IjpbLTEzOTExNTM4MzYsMTY4MTgyNTI4MF19
 -->
